@@ -1,3 +1,5 @@
-Vaccine Misdiagnosis Guide: Because it uses keyboard hooks and WinAPI mouse controls, users should be informed in advance that Windows Defender or Vaccine can misdiagnose and delete Trojan Horse/Keylogger when downloading files built with exe to prevent misunderstanding.
+⚠️ Antivirus Notice
+This application utilizes keyboard hooks and WinAPI for mouse automation. Due to the nature of these functions, some antivirus software (including Windows Defender) may incorrectly flag this program as a Trojan or Keylogger. This is a false positive; please add the application to your antivirus exclusion list if necessary.
 
-The developer is not responsible for account suspension or disadvantage caused by the use of the game terms and conditions disclaimer macro.
+⚖️ Disclaimer
+Use of this macro may violate the Terms of Service of certain games. The developer assumes no responsibility for account bans, penalties, or any other disadvantages incurred through the use of this software. Use at your own risk.
