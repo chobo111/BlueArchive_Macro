@@ -1,4 +1,3 @@
+Vaccine Misdiagnosis Guide: Because it uses keyboard hooks and WinAPI mouse controls, users should be informed in advance that Windows Defender or Vaccine can misdiagnose and delete Trojan Horse/Keylogger when downloading files built with exe to prevent misunderstanding.
 
-백신 오진 안내: keyboard 훅과 WinAPI 마우스 제어를 사용하기 때문에, exe로 빌드한 파일을 다운로드할 때 윈도우 디펜더나 백신이 트로이목마/키로거로 오진하고 삭제할 수 있다는 점을 미리 알려야 사용자들의 오해를 막을 수 있습니다.
-
-게임 이용약관 위반 면책 조항 매크로 사용으로 인한 계정 정지나 불이익에 대해 개발자는 책임지지 않습니다.
+The developer is not responsible for account suspension or disadvantage caused by the use of the game terms and conditions disclaimer macro.
