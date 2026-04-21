@@ -1,5 +1,7 @@
-⚠️ Antivirus Notice
-This application utilizes keyboard hooks and WinAPI for mouse automation. Due to the nature of these functions, some antivirus software (including Windows Defender) may incorrectly flag this program as a Trojan or Keylogger. This is a false positive; please add the application to your antivirus exclusion list if necessary.
+> [!WARNING]
+> **Technical Note on Antivirus:**
+> This app uses keyboard hooks and WinAPI mouse controls. Windows Defender or other antivirus tools may misdiagnose it as a Trojan or Keylogger.
 
-⚖️ Disclaimer
-Use of this macro may violate the Terms of Service of certain games. The developer assumes no responsibility for account bans, penalties, or any other disadvantages incurred through the use of this software. Use at your own risk.
+> [!IMPORTANT]
+> **Disclaimer:**
+> The developer is not responsible for any bans or disadvantages caused by violating game Terms of Service. Users are solely responsible for how they use this macro.
